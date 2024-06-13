@@ -15,7 +15,7 @@ To download and interact with the `MyToken` smart contract:
 1. Clone the repository from GitHub:
 
   
-   git clone https://github.com/yourusername/MyToken.git
+   git clone https://github.com/Prqkhar/My-Token/edit/main/README.md
 
 Based on the provided Solidity smart contract for MyToken, here's a filled-in template for a README.md file:
 
