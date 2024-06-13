@@ -20,7 +20,7 @@ To download and interact with the `MyToken` smart contract:
 
 cd MyToken/
 
-### Executing Program
+## Executing Program
 
 To run and deploy the MyToken contract:
 
@@ -36,13 +36,15 @@ contract MyToken {
     // Contract code here
 }
 
-### Help
+## Help
+
 If you encounter any issues or have questions:
 
 Check the Solidity documentation for language-specific questions.
 Review the contract code for specific functionality details.
 Contact the author for further assistance.
 
-### Authors
+## Authors
+
 Author Name: Prakhar Tiwari
 Contact: dhruvtiwari360@gmail.com
